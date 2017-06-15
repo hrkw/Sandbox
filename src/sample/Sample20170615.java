@@ -18,4 +18,9 @@ public class Sample20170615 {
 	public static void test(){
 		System.out.println("test!");
 	}
+
+	public static void test2(){
+		System.out.println("test!");
+	}
+
 }
