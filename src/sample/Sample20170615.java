@@ -13,12 +13,16 @@ public class Sample20170615 {
 	    System.out.print("オペレーティングシステム名(os.name):");
 	    System.out.println(System.getProperty("os.name"));
 	}
-	
+
 	public static void test(){
 		System.out.println("test!");
 	}
 
 	public static void test2(){
+		System.out.println("test!");
+	}
+
+	public static void test3(){
 		System.out.println("test!");
 	}
 
