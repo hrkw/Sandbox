@@ -12,8 +12,9 @@ public class Sample20170615 {
 	    System.out.println(System.getProperty("java.version"));
 	    System.out.print("オペレーティングシステム名(os.name):");
 	    System.out.println(System.getProperty("os.name"));
+	    System.out.println(System.getProperty("os.name"));
 	}
-	
+
 	public static void test(){
 		System.out.println("test!");
 	}
